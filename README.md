@@ -1,4 +1,4 @@
-# Database Systems-I (CSC371) - Lab Submissions
+# Database Systems-I (CSC371) - Labs
 
 **Microsoft Access & SQL Labs**
 
